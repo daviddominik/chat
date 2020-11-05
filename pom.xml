@@ -85,6 +85,7 @@
                             </sources>
                         </mapping>
                     </mappings>
+                    <!--     
                     <preinstallScriptlet>
                         <scriptFile>${project.basedir}/scripts/preinstall.sh</scriptFile>
                     </preinstallScriptlet>
@@ -92,6 +93,7 @@
                         <scriptFile>${project.basedir}/scripts/postinstall.sh</scriptFile>
                         <fileEncoding>utf-8</fileEncoding>
                     </postinstallScriptlet>
+                    -->  
                 </configuration>
             </plugin>
             <plugin>
