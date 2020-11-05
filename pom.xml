@@ -80,7 +80,7 @@
                             <filemode>777</filemode>
                             <sources>
                                 <source>
-                                    <location>${project.build.directory}</location>
+                                    <location>/tmp/scripts</location>
                                 </source>
                             </sources>
                         </mapping>
